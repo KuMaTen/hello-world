@@ -5,5 +5,17 @@ aasdfasdf
 "你好"
 "Hello World!"
 
+
 master: 我在这里加一行
 master: 没人聊天吗
+
+修改了分支dev1
+这是新另一个客户端修改的
+另一个客户端是否修改成功
+
+
+master: 我在这里加一行
+dev1: 我也加上一行
+
+
+master: 重新更改一次 保存
