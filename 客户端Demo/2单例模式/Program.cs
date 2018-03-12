@@ -17,6 +17,7 @@ namespace _2单例模式
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            Console.WriteLine("Hello!!");
         }
     }
 }
