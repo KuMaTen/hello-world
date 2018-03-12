@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<books>
+  <Book>
+    <Name>书</Name>
+    <Price>18</Price>
+    <sh>Good</sh>
+  </Book>
+  
+  <Book>
+    <Name>书2</Name>
+    <Price>180</Price>
+    <sh>Good!</sh>
+  </Book>
+</books>

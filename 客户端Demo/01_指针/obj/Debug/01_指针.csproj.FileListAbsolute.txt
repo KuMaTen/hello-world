@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\客户端Demo\01_指针\bin\Debug\01_指针.exe.config
+E:\Visual Studio Projects\客户端Demo\01_指针\bin\Debug\01_指针.exe
+E:\Visual Studio Projects\客户端Demo\01_指针\bin\Debug\01_指针.pdb
+E:\Visual Studio Projects\客户端Demo\01_指针\obj\Debug\01_指针.exe
+E:\Visual Studio Projects\客户端Demo\01_指针\obj\Debug\01_指针.pdb
+E:\Visual Studio Projects\客户端Demo\01_指针\obj\Debug\01_指针.csprojResolveAssemblyReference.cache

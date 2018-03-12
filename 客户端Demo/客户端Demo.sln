@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2单例模式", "2单例模式\2单例模式.csproj", "{F8FC206B-5DBE-407D-AE37-1A4219B57CCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3使用XML", "3使用XML\3使用XML.csproj", "{5E62DC43-1FC4-4F14-8A72-9F01CA1C8503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_指针", "01_指针\01_指针.csproj", "{10B78E70-8295-4A47-9C09-DDAA72A74E45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8FC206B-5DBE-407D-AE37-1A4219B57CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FC206B-5DBE-407D-AE37-1A4219B57CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FC206B-5DBE-407D-AE37-1A4219B57CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FC206B-5DBE-407D-AE37-1A4219B57CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E62DC43-1FC4-4F14-8A72-9F01CA1C8503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E62DC43-1FC4-4F14-8A72-9F01CA1C8503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E62DC43-1FC4-4F14-8A72-9F01CA1C8503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E62DC43-1FC4-4F14-8A72-9F01CA1C8503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B78E70-8295-4A47-9C09-DDAA72A74E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B78E70-8295-4A47-9C09-DDAA72A74E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B78E70-8295-4A47-9C09-DDAA72A74E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B78E70-8295-4A47-9C09-DDAA72A74E45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

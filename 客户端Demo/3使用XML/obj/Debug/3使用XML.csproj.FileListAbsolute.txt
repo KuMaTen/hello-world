@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\客户端Demo\3使用XML\bin\Debug\3使用XML.exe.config
+E:\Visual Studio Projects\客户端Demo\3使用XML\bin\Debug\3使用XML.exe
+E:\Visual Studio Projects\客户端Demo\3使用XML\bin\Debug\3使用XML.pdb
+E:\Visual Studio Projects\客户端Demo\3使用XML\obj\Debug\3使用XML.exe
+E:\Visual Studio Projects\客户端Demo\3使用XML\obj\Debug\3使用XML.pdb
+E:\Visual Studio Projects\客户端Demo\3使用XML\obj\Debug\3使用XML.csprojResolveAssemblyReference.cache
