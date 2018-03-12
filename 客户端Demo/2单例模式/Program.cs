@@ -18,6 +18,7 @@ namespace _2单例模式
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             Console.WriteLine("Hello!!");
+            Console.WriteLine("再添加一行");
         }
     }
 }
