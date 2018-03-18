@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 2004961,
+    "Username": "KuMaTen",
+    "Name": "KuMaTen",
+    "Email": "251304708@qq.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/13aaa891b82427183550d4eb2896a079?s=80&d=identicon",
+    "PrivateToken": "223df1994f72fe9007da86ef97d7386b4b7647ac2f7ee63d41606f52411ce0ae",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
